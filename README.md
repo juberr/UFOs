@@ -10,7 +10,7 @@ In the pursuit of the truth surrounding UFOs, we can use JavaScript, HTML, and C
 
 ### Initial Load
 
-Upon the initial loading of the app, users are presented with a brief introduction on the background that inspired this app's creation, and the UFO data table in its entirety below. Asking users to parse through this data themselves would prove inaccessible and hard to draw conclusions from. Thats where the "Filter Search" section of this app comes in. The picture below depicts an unfiltered view of the app. One can note the "Filter Search" only contains placeholders.
+Upon the initial loading of the app, users are presented with a brief introduction on the background that inspired this app's creation, and the UFO data table in its entirety below. Asking users to parse through this data themselves would prove inaccessible and hard to draw conclusions from. That's where the "Filter Search" section of this app comes in. The picture below depicts an unfiltered view of the app. One can note the "Filter Search" only contains placeholders.
 
 ![Unfiltered](https://github.com/juberr/UFOs/blob/main/pictures/Unfiltered.png?raw=true)
 
