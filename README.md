@@ -12,13 +12,13 @@ In the pursuit of the truth surrounding UFOs, we can use JavaScript, HTML, and C
 
 Upon the initial loading of the app, users are presented with a brief introduction on the background that inspired this app's creation, and the UFO data table in its entirety below. Asking users to parse through this data themselves would prove inaccessible and hard to draw conclusions from. Thats where the "Filter Search" section of this app comes in. The picture below depicts an unfiltered view of the app. One can note the "Filter Search" only contains placeholders.
 
-[INSERT IMAGE HERE]
+![Unfiltered](https://github.com/juberr/UFOs/blob/main/pictures/Unfiltered.png?raw=true)
 
 ### Filter Search
 
 If the user inputs a search term into one or more of these fields and presses enter, the table will be rebuilt consisting only of data that matches what the user inputted into the search field. This works the other way too, if the user removes a search term from a field, the table will be rebuilt with the new specifications. The picture below depicts a filtered view of the app. One can note the "Filter Search" contains "ca" under the country field, and the results show two canadian UFO sightings.
 
-[INSERT IMAGE HERE]
+![Filtered](https://github.com/juberr/UFOs/blob/main/pictures/Filtered.png?raw=true)
 
 ## Summary
 
